@@ -11,7 +11,7 @@ const RightSideBar = () => {
     return (
         <div>
             <div className="p-2">
-                <h2 className="text-2xl font-bold mb-8 ">Login With</h2>
+                <h2 className="text-2xl font-semibold mb-8 ">Login With</h2>
                 <button className="btn btn-outline w-full mb-2"><FaGoogle></FaGoogle>Login With Google</button>
                 <button className="btn btn-outline w-full"><FaGithub></FaGithub>Login With Github</button>
             </div>
